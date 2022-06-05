@@ -3,3 +3,8 @@ body {
     color: green;
     font-family: sans-serif;
 }
+
+iframe {
+    width: 100%;
+    height: 95vh;
+}
